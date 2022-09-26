@@ -34,7 +34,7 @@ Ex9.
 
 Выполнение программы:
 
-![пример 1](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22.git/Ex1_sum_num_real.png)
+![пример 1](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex1_sum_num_real.png)
 
 
 ### Ex2_array_mult_num_N. Напишите программу, которая принимает на вход число N и выдает набор произведений чисел от 1 до N.
@@ -45,7 +45,7 @@ Ex9.
 
 Выполнение программы:
 
-![пример 2](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22.git/Ex2_array_mult_num_N.png)
+![пример 2](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_mult_num_N.png)
 
 ### Ex3_2_zam_lim. Задайте список из n чисел последовательности $(1+\frac 1 n)^n$ и выведите на экран их сумму.
 
@@ -55,16 +55,16 @@ Ex9.
 
 Выполнение программы:
 
-![пример 3](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22.git/Ex1_sum_num_real.png)
+![пример 3](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_mult_num_N.png)
 
 ### Ex4__. Задайте список из N элементов, заполненных числами из промежутка [-N, N]. Найдите произведение элементов на указанных позициях. Позиции хранятся в файле file.txt в одной строке одно число.
 
 Выполнение программы:
 
-![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22.git/Ex1_sum_num_real.png)
+![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_mult_num_N.png)
 
 ### Ex5_ Реализуйте алгоритм перемешивания списка.
 
 Выполнение программы:
 
-![дополнительный пример 5](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22.git/Ex1_sum_num_real.png)
+![дополнительный пример 5](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_mult_num_N.png)
