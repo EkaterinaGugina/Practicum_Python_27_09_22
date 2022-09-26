@@ -55,7 +55,7 @@ Ex9.
 
 Выполнение программы:
 
-![пример 3](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_mult_num_N.png)
+![пример 3](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex3_2_zam_lim.png)
 
 ### Ex4__. Задайте список из N элементов, заполненных числами из промежутка [-N, N]. Найдите произведение элементов на указанных позициях. Позиции хранятся в файле file.txt в одной строке одно число.
 
