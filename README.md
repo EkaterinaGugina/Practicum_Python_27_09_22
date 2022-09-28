@@ -47,4 +47,4 @@ Ex3. Напишите программу, которая принимает на
 
 Выполнение программы:
 
-![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_mult_num_N.png)
+![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/file.txt)
