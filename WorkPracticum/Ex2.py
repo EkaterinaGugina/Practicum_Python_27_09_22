@@ -1,12 +1,13 @@
-# Найти максимальное из пяти чисел
-# lst = [1, 3, 5, -1, 22]
-lst = []
-for i in range(5):
-    num = int(input("Введите число: "))
-    lst.append(num)
+# Дано количество секунд. Вывести результат в виде: дни:часы:минуты:секунды
+# t = 123456
+# ss = t % 60
+# mm = (t // 60) % 60
+# hh = (t // 60) //60
+# dd = ((t // 60) // 60) // 24
+# print(f'{dd} дней {hh} : {mm} : {ss}')
 
-res = lst[0]
-for i in range(1, 5):
-    if lst[i] > res:
-        res = lst[i]
-print(res)
+sec = int(input(''))
+min, sec = sec // 60, sec % 60
+hour, min = min // 60, min % 60
+day, hour = hour // 24, hour % 24
+print(f"{day}:{hour}:{min}:{sec}")
