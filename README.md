@@ -20,7 +20,7 @@ Ex3. Напишите программу, которая принимает на
 
 Выполнение программы:
 
-![пример 1](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex1_sum_num_real.png)
+![пример 1](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex1_dict_index_num.png)
 
 
 ### Ex2_array_mult_num_N. Напишите программу, которая принимает на вход число N и выдает набор произведений чисел от 1 до N.
