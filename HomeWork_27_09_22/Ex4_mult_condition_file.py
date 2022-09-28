@@ -6,6 +6,6 @@ print(array_mult_num)
 mult_num_index = 1
 with open("file.txt", "r") as f:
     for line in f:
-        mult_num_index *= array_mult_num[int(line)]
-print(mult_num_index)
+        mult_num_index *= array_mult_num[int(line)] 
+print(mult_num_index)     # В file.txt записаны индексы 2, 1, 6
 f.close
