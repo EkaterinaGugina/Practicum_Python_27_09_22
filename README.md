@@ -31,7 +31,7 @@ Ex3. Напишите программу, которая принимает на
 
 Выполнение программы:
 
-![пример 2](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_mult_num_N.png)
+![пример 2](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex2_array_factorial_num.png)
 
 ### Ex3_2_zam_lim. Задайте список из n чисел последовательности $(1+\frac 1 n)^n$ и выведите на экран их сумму.
 
