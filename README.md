@@ -48,3 +48,9 @@ Ex3. Напишите программу, которая принимает на
 Выполнение программы:
 
 ![пример 4](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex4_mult_condition_file.png)
+
+### Ex5_spisok_random  Составить программу, реализующую перемешивание списка
+
+Выполнение программы:
+
+![пример 5](https://github.com/EkaterinaGugina/Practicum_Python_27_09_22/blob/main/HomeWork_27_09_22/Ex5_spisok_random.png)
