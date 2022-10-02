@@ -1,15 +1,14 @@
+#  Написать программу перемешивающую список
 import datetime
 from random import randrange
 n = int(input('Введите количество элементов n = '))
-array = [randrange(1, 10) for i in range(n)]
-index = []*n
-for i in range(n - 1):
-    index[i] = datetime.datetime.now().microsecond % n
+array = [randrange(-99, 100) for i in range(n)]
 print(array)
 for i in range(len(array)):
     current = array[i]
-    array[i] = array[index[i]]
-    array[index[i]] = current
+    k = datetime.datetime.now().microsecond % n
+    array[i] = array[k]
+    array[k] = current 
 print(array)
 
     
